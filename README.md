@@ -1,4 +1,4 @@
-# COMP551 Assignment2: Classification of Image Data with MMultilayer Perceptrons (MLP) from scratch and Convolutional Neural Networks (CNN)
+# COMP551 Assignment2: Classification of Image Data with Multilayer Perceptrons (MLP) from scratch and Convolutional Neural Networks (CNN)
 
 By: Joey Koay, Selina Wang and Estelle Lin
 
